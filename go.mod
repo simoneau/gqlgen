@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/agnivade/levenshtein v1.0.3 // indirect
 	github.com/go-chi/chi v3.3.2+incompatible
-	github.com/gogo/protobuf v1.0.0 // indirect
+	github.com/gogo/protobuf v1.3.1 // indirect
 	github.com/gorilla/context v0.0.0-20160226214623-1ea25387ff6f // indirect
 	github.com/gorilla/mux v1.6.1 // indirect
 	github.com/gorilla/websocket v1.4.2
